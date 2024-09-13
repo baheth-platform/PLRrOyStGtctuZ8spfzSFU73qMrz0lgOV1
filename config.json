@@ -1,0 +1,83 @@
+{
+  "user_id": 1,
+  "playlist_id": 74,
+  "source": "youtube",
+  "producer": "wit",
+  "provider": "علي حمدي علي فاضل",
+  "tag_list": "التاريخ، مداخل",
+  "hidden": false,
+  "media": [
+    {
+      "title": "مدخل لدراسة التاريخ الإسلامي | المحاضرة الأولى - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:47:09",
+      "link": "https://www.youtube.com/watch?v=qvddzz1ew8Q",
+      "transcript_txt": "qvddzz1ew8Q.txt",
+      "transcript_srt": "qvddzz1ew8Q.srt"
+    },
+    {
+      "title": "مدخل لدراسة التاريخ الإسلامي | المحاضرة الثانية - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "02:07:41",
+      "link": "https://www.youtube.com/watch?v=Z-c_EIO7b8s",
+      "transcript_txt": "Z-c_EIO7b8s.txt",
+      "transcript_srt": "Z-c_EIO7b8s.srt"
+    },
+    {
+      "title": "مدخل لدراسة التاريخ الإسلامي | المحاضرة الثالثة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:48:54",
+      "link": "https://www.youtube.com/watch?v=5PxOBP8Dim4",
+      "transcript_txt": "5PxOBP8Dim4.txt",
+      "transcript_srt": "5PxOBP8Dim4.srt"
+    },
+    {
+      "title": "مدخل لدراسة التاريخ الإسلامي | المحاضرة الرابعة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:44:53",
+      "link": "https://www.youtube.com/watch?v=tD7yp4WWVbA",
+      "transcript_txt": "tD7yp4WWVbA.txt",
+      "transcript_srt": "tD7yp4WWVbA.srt"
+    },
+    {
+      "title": "مدخل لدراسة التاريخ الإسلامي | المحاضرة الخامسة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "02:19:08",
+      "link": "https://www.youtube.com/watch?v=O3CTcCDfgZA",
+      "transcript_txt": "O3CTcCDfgZA.txt",
+      "transcript_srt": "O3CTcCDfgZA.srt"
+    },
+    {
+      "title": "مدخل لدراسة التاريخ الإسلامي | المحاضرة السادسة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "02:11:26",
+      "link": "https://www.youtube.com/watch?v=Yy8tkkS0Kno",
+      "transcript_txt": "Yy8tkkS0Kno.txt",
+      "transcript_srt": "Yy8tkkS0Kno.srt"
+    },
+    {
+      "title": "مدخل لدراسة التاريخ الإسلامي | المحاضرة السابعة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "02:13:07",
+      "link": "https://www.youtube.com/watch?v=ZdeuIWKG17U",
+      "transcript_txt": "ZdeuIWKG17U.txt",
+      "transcript_srt": "ZdeuIWKG17U.srt"
+    },
+    {
+      "title": "مدخل لدراسة التاريخ الإسلامي | المحاضرة الثامنة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "02:19:23",
+      "link": "https://www.youtube.com/watch?v=HAQl3ATA6W8",
+      "transcript_txt": "HAQl3ATA6W8.txt",
+      "transcript_srt": "HAQl3ATA6W8.srt"
+    },
+    {
+      "title": "مدخل لدراسة التاريخ الإسلامي | المحاضرة التاسعة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "02:47:03",
+      "link": "https://www.youtube.com/watch?v=R9DbgMlJ8x0",
+      "transcript_txt": "R9DbgMlJ8x0.txt",
+      "transcript_srt": "R9DbgMlJ8x0.srt"
+    }
+  ]
+}
